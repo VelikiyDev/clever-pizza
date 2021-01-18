@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/clever-pizza/static/css/main.ea1455b2.chunk.css",
-    "main.js": "/clever-pizza/static/js/main.9b938d6f.chunk.js",
-    "main.js.map": "/clever-pizza/static/js/main.9b938d6f.chunk.js.map",
+    "main.js": "/clever-pizza/static/js/main.50a88e81.chunk.js",
+    "main.js.map": "/clever-pizza/static/js/main.50a88e81.chunk.js.map",
     "runtime-main.js": "/clever-pizza/static/js/runtime-main.dbcb0aab.js",
     "runtime-main.js.map": "/clever-pizza/static/js/runtime-main.dbcb0aab.js.map",
     "static/js/2.4f631bcf.chunk.js": "/clever-pizza/static/js/2.4f631bcf.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.dbcb0aab.js",
     "static/js/2.4f631bcf.chunk.js",
     "static/css/main.ea1455b2.chunk.css",
-    "static/js/main.9b938d6f.chunk.js"
+    "static/js/main.50a88e81.chunk.js"
   ]
 }
